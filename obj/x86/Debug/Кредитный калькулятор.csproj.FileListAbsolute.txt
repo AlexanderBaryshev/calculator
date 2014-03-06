@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\bin\Debug\Кредитный калькулятор.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\bin\Debug\Кредитный калькулятор.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный_калькулятор.Form1.resources
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный_калькулятор.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный калькулятор.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный калькулятор.exe
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный калькулятор.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный_калькулятор.Reference.resources
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\Кредитный калькулятор\Кредитный калькулятор\obj\x86\Debug\Кредитный калькулятор.csprojResolveAssemblyReference.cache
